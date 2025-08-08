@@ -71,16 +71,9 @@ RESTful API integration.
 <p>
   ### 🏅 Badges & Certifications  
 
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-2C2C2C?style=flat&logoColor=white)  
-![Expert](https://img.shields.io/badge/Expert-97CA00?style=flat)  
-![Arduino](https://img.shields.io/badge/Arduino-2C2C2C?style=flat&logo=arduino&logoColor=white)  
-![Drone Project](https://img.shields.io/badge/Drone%20Project-007EC6?style=flat)  
-![Data Science Intern](https://img.shields.io/badge/Data%20Science%20Intern-FFB300?style=flat)  
-![Heineken N.V.](https://img.shields.io/badge/Heineken%20N.V.-2C2C2C?style=flat)  
-![Web Dev Intern](https://img.shields.io/badge/Web%20Dev%20Intern-FFB300?style=flat)  
-![Cognifyz Technologies](https://img.shields.io/badge/Cognifyz%20Technologies-2C2C2C?style=flat)  
-![WebRTC](https://img.shields.io/badge/WebRTC-5C5C5C?style=flat)  
-![Learner](https://img.shields.io/badge/Learner-C0C0C0?style=flat)  
+### 🏅 Badges & Certifications  
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-2C2C2C?style=flat&logoColor=white) ![Expert](https://img.shields.io/badge/Expert-97CA00?style=flat) ![Arduino](https://img.shields.io/badge/Arduino-2C2C2C?style=flat&logo=arduino&logoColor=white) ![Drone Project](https://img.shields.io/badge/Drone%20Project-007EC6?style=flat) ![Data Science Intern](https://img.shields.io/badge/Data%20Science%20Intern-FFB300?style=flat) ![Heineken N.V.](https://img.shields.io/badge/Heineken%20N.V.-2C2C2C?style=flat) ![Web Dev Intern](https://img.shields.io/badge/Web%20Dev%20Intern-FFB300?style=flat) ![Cognifyz Technologies](https://img.shields.io/badge/Cognifyz%20Technologies-2C2C2C?style=flat) ![WebRTC](https://img.shields.io/badge/WebRTC-5C5C5C?style=flat) ![Learner](https://img.shields.io/badge/Learner-C0C0C0?style=flat)
+
 
 </p>
 
